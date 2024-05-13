@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+HTML stands for Hypertext Markup Language. It is a markup language used to create and structure content for the World Wide Web. HTML provides a standard way of describing the structure and content of web pages, including text, images, links, and other elements.
+
+HTML uses a series of tags, enclosed in angle brackets, to define the structure and content of a web page. These tags define headings, paragraphs, images, links, tables, and other elements that make up a web page. HTML also allows for the inclusion of other web technologies, such as CSS (Cascading Style Sheets) and JavaScript, which can be used to add styling and interactivity to a web page.
+
+Web browsers use HTML to render web pages, translating the markup language into a visual display for the user. As such, HTML is a fundamental technology for building and delivering web content.
+
+</body>
+</html>
