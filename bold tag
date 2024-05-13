@@ -2,7 +2,8 @@
 <html>
     <title> My First Web Page </title>
     <body>
-        <h1> My Favorite Book </h1>
+        <h1> Bold Tag </h1>
+        <h2> My Favorite Book </h2>
         <p>
             Favourite book is the one which is liked the most. Different people have different choice. 
             Some like <b>story books</b>, other like the <b>detective movies</b> and the other like <b>science fiction</b> but I have different mind. 
