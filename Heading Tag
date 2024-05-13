@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <title>
+        My First Web page 
+    </title>
+<body>
+    <h1 dir="center">
+        My hobby: playing football
+    </h1>
+    <p>
+        My hobby is playing football. There is something about the intensity and excitement of the game that I find thrilling.
+    </p>
+    <h2>
+       Reasons why I love Playing Football?
+    </h2>
+    <p>
+        One of the reasons I love playing football is that it keeps me active and healthy. <br>
+        The game requires a high level of physical fitness, and playing regularly helps me to maintain a healthy lifestyle. <br>
+        I get to run, jump and kick, and I feel great after a good game. Playing football also helps me to relieve stress and stay focused.<br><br>
+
+        Another reason I enjoy playing football is that it allows me to be part of a team.<br>
+        I have played on various teams throughout my life, and I have always appreciated the <br>
+        sense of community and camaraderie that comes with being part of a team.<br>
+        I have made many great friends through football, and we share a common passion for the game.<br><br>
+        
+        In addition to the personal benefits of playing football, the game also has social and cultural significance. <br>
+        Football is a global sport, and it brings people from different backgrounds together.<br>
+        It also has a rich history and traditions that are celebrated by fans around the world. .
+    </p>
+<h3> Conclusion :
+</h3>
+<p>
+    Of course, playing football is not without its challenges. It can be physically demanding,<br>
+    and injuries are always a concern. There is also the pressure to perform at a high level, which can be stressful.<br>
+    However, for me, the rewards of playing football outweigh the challenges.<br><br>
+
+    In conclusion, my hobby is playing football. It keeps me active and healthy, allows me to be part of a team, <br>
+    and has social and cultural significance. Although it is not without its challenges,<br>
+    I find playing football to be a rewarding and enjoyable activity. 
+      
+</body>
+</html>
