@@ -4,7 +4,8 @@
         My First Web page 
     </title>
 <body>
-    <h1 dir="center">
+    <h1> Heading Tag </h1>
+    <h1>
         My hobby: playing football
     </h1>
     <p>
