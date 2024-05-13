@@ -4,7 +4,8 @@
         My First Web page 
     </title>
 <body>
-      <h1> Famous Qoutes </h1>
+    <h1>Italic </h1>
+      <h2> Famous Qoutes </h2>
       <p> 
         <i>'To live is the rarest thing in the world. Most people exist, that is all.'</i> – Oscar Wilde
       </p>
