@@ -2,6 +2,7 @@
 <html>
     <Title> My First Web Page </Title>
     <body>
+        <h1> Paragraph Tag </h1>
         <p>
             My name is Haris Jadoon. I belong to Dhamtour Abbottabad. My City Abbottabad is known for its Natural beauty and good wheather.
         </p>
