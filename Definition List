@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <title>
+        My First Web page 
+    </title>
+<body>
+      <h1> Definition List </h1>
+      <dl>
+        <dt> Biryani </dt>
+        <dd> Biryani is a mixed rice dish, mainly popular in South Asia. It is made with rice, some type of meat and spices. </dd>
+        <dt> Pizza </dt>
+        <dd> Pizza is a traditional Italian dish typically consisting of a flat base of leavened wheat-based dough topped with tomato, cheese, and other ingredients.</dd>
+        <dt> Paratha Roll </dt>
+        <dd> Delicious flaky paratha rolls filled with smoky and spicy chicken tikka boti, a yogurt mayo sauce, and sweet and tangy chutneys. </dd>
+        <dt> Chicken Karahi </dt>
+        <dd> Chicken karahi, or kadai chicken, is a chicken dish from South Asia. It is noted for its spicy taste and is notable in South 
+        Asian Cuisine. The dish is prepared in a karahi and can take between 30 and 50 minutes to prepare and cook the dish. </dd>
+
+
+      </dl>
+</body>
+</html>
